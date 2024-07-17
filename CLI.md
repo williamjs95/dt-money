@@ -10,5 +10,6 @@ npm i styled-components
 >> types for styled-components
 npm i @types/styled-components -D
 
->> acessible modal
+>> acessible components
 npm i @radix-ui/react-dialog
+npm i @radix-ui/react-radio-group
