@@ -9,3 +9,6 @@ npm i styled-components
 
 >> types for styled-components
 npm i @types/styled-components -D
+
+>> acessible modal
+npm i @radix-ui/react-dialog
