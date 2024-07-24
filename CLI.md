@@ -20,3 +20,6 @@ npx json-server server.json -p 3333 -w -d 500
 
 >> to make http requests
 npm i axios
+
+>> to manange context selectors
+npm i use-context-selector scheduler
