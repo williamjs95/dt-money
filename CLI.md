@@ -17,3 +17,6 @@ npm i @radix-ui/react-radio-group
 >> to implement a json server
 npm i json-server -D
 npx json-server server.json -p 3333 -w -d 500
+
+>> to make http requests
+npm i axios
